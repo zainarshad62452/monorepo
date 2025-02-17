@@ -1,0 +1,15 @@
+
+# Flutter/Dart related
+build/
+.dart_tool/
+.packages
+pubspec.lock
+*.iml
+
+# Mac/Linux/Windows files
+.DS_Store
+.idea/
+*.log
+
+# Melos-related
+.melos_tool/
